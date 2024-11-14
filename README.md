@@ -1,11 +1,14 @@
 <!-- About Me -->
 <div align="center">
-  
+</div>
+<div>
+
 ## 🚀 About Me
 
-- Hello, I'm Diogo, a tech enthusiast dedicated to daily skill development, embracing the ever-evolving world of technology on a journey to enhance expertise and innovation.
+- 👤 Hello, I'm Diogo, a tech enthusiast dedicated to daily skill development, embracing the ever-evolving world of technology on a journey to enhance expertise and innovation.
 - 💼 I look for challenges and opportunities that promote my continuous learning, growth and innovation.
 
+</div>
 <div align="center"> 
   <a href="mailto:diogovazalmeida@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -28,7 +31,7 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,git,docker,kubernetes,ansible,terraform,jenkins,linux,py,go" />
-    <img src="https://skillicons.dev/icons?i=github,bitbucket,gitlab,html,css,js,bootstrap,tailwind,gravana,githubactions" /><br>
+    <img src="https://skillicons.dev/icons?i=github,bitbucket,gitlab,html,css,js,bootstrap,tailwind,grafana,githubactions" /><br>
   </a>
 </p>
 
@@ -40,5 +43,4 @@
 
 ## Stats ⚡
   <img src="https://github-readme-stats.vercel.app/api?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogovalmeida&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="50%" /> </br>
