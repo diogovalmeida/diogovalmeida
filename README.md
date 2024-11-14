@@ -28,7 +28,7 @@
 <!-- Tech Stack -->
 <div align="center">
   
-## 💻 Tech Stack ⚡
+## ⚙️ Technical Skills
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,azure,git,docker,kubernetes,ansible,terraform,jenkins,linux,py,go" />
@@ -36,11 +36,12 @@
   </a>
 </p>
 
+<br/>
 <hr/>
 
 <!-- Stats -->
 <div align="center">
 
-## Stats ⚡
-  <img src="https://github-readme-stats.vercel.app/api?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="70%" /> </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="70%" /> </br>
+## ⚡ Stats 
+  <img src="https://github-readme-stats.vercel.app/api?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="40%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogovalmeida&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="35%" /> </br>
