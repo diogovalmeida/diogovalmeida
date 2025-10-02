@@ -4,12 +4,6 @@
 ## 🚀 About Me
 
 </div>
-<div>
-
-- 👤 Hello, I'm Diogo, a tech enthusiast dedicated to daily skill development, embracing the ever-evolving world of technology on a journey to enhance expertise and innovation.
-- 💼 I look for challenges and opportunities that promote my continuous learning, growth and innovation.
-
-</div>
 <div align="center"> 
   <a href="mailto:diogovazalmeida@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
